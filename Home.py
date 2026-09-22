@@ -8,4 +8,4 @@ st.write("Welcome to the World Cities Streamlit app!")
 st.write("Explore cities from around the world using the app.")
 
 if st.button("Go to the app"):
-    st.switch_page("app.py")
+    st.switch_page("pages/app.py")
