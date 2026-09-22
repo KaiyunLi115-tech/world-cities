@@ -42,4 +42,4 @@ with button_column:
         type="primary",
         use_container_width=True,
     ):
-        st.switch_page("app.py")
+        st.switch_page("pages/app.py")
